@@ -1,0 +1,14 @@
+C:\dev\Design Patterns\Factory Method\Csharp\bin\Debug\net8.0\Csharp.exe
+C:\dev\Design Patterns\Factory Method\Csharp\bin\Debug\net8.0\Csharp.deps.json
+C:\dev\Design Patterns\Factory Method\Csharp\bin\Debug\net8.0\Csharp.runtimeconfig.json
+C:\dev\Design Patterns\Factory Method\Csharp\bin\Debug\net8.0\Csharp.dll
+C:\dev\Design Patterns\Factory Method\Csharp\bin\Debug\net8.0\Csharp.pdb
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfoInputs.cache
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfo.cs
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.csproj.CoreCompileInputs.cache
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.dll
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\refint\Csharp.dll
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.pdb
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\Csharp.genruntimeconfig.cache
+C:\dev\Design Patterns\Factory Method\Csharp\obj\Debug\net8.0\ref\Csharp.dll
